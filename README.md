@@ -2,6 +2,7 @@
 A pretty simplified docker-compose workflow that sets up a LEMP network of containers for local Laravel development. You can view the full article that inspired this repo [here](https://medium.com/@aschmelyun).
 
 Original repo: https://github.com/aschmelyun/docker-compose-laravel
+
 Changes were made to support ARM.
 
 
